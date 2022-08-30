@@ -11,6 +11,7 @@ The games I took each file from
 - **libsteam_api.so**: Momentum Mod playtest (08/30/2022)
 - **libtier0.so**: Momentum Mod playtest (08/30/2022)
 - **libvstdlib.so**: Momentum Mod playtest (08/30/2022)
+- **vfont**: Momentum Mod playtest (08/30/2022)
 - **vpk**: Momentum Mod playtest (08/30/2022)
 - **vpk32**: All versions that I found don't work (08/30/2022)
 
